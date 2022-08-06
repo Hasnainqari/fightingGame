@@ -1,0 +1,32 @@
+body {
+    background-image: url(./animation/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.one {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    position: absolute;
+    bottom: 30px;
+    left: 350px;
+}
+
+.two {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    position: absolute;
+    bottom: 30px;
+    right: 350px;
+}
+.three{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    position: absolute;
+    bottom: 430px;
+    left: 550px;
+}
+
